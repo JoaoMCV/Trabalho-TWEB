@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "a",
+        "duracao": "a",
+        "Album": "a"
+    },
+    {
+        "nome": "b",
+        "duracao": "b",
+        "Album": "b"
+    },
+    {
+        "nome": "c",
+        "duracao": "c",
+        "Album": "c"
+    },
+    {
+        "nome": "d",
+        "duracao": "d",
+        "Album": "d"
+    },
+    {
+        "nome": "e",
+        "duracao": "e",
+        "Album": "e"
+    } 
+]
